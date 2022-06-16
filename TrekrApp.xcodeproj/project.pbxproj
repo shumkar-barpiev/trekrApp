@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		CE34309228460BF60057ACF3 /* Locations.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE34309128460BF60057ACF3 /* Locations.swift */; };
+		CE5D122B28586B3E0087D672 /* Tip.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE5D122A28586B3E0087D672 /* Tip.swift */; };
+		CE5D122D28586C220087D672 /* TipsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE5D122C28586C220087D672 /* TipsView.swift */; };
 		CE8F2769284665C100183125 /* WorldView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE8F2768284665C100183125 /* WorldView.swift */; };
 		CEB1562F28240301004C40F4 /* TrekrAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEB1562E28240301004C40F4 /* TrekrAppApp.swift */; };
 		CEB1563128240301004C40F4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEB1563028240301004C40F4 /* ContentView.swift */; };
@@ -20,6 +22,8 @@
 
 /* Begin PBXFileReference section */
 		CE34309128460BF60057ACF3 /* Locations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Locations.swift; sourceTree = "<group>"; };
+		CE5D122A28586B3E0087D672 /* Tip.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tip.swift; sourceTree = "<group>"; };
+		CE5D122C28586C220087D672 /* TipsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TipsView.swift; sourceTree = "<group>"; };
 		CE8F2768284665C100183125 /* WorldView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorldView.swift; sourceTree = "<group>"; };
 		CEB1562B28240301004C40F4 /* TrekrApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TrekrApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CEB1562E28240301004C40F4 /* TrekrAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrekrAppApp.swift; sourceTree = "<group>"; };
@@ -62,6 +66,8 @@
 			isa = PBXGroup;
 			children = (
 				CEB1562E28240301004C40F4 /* TrekrAppApp.swift */,
+				CE5D122A28586B3E0087D672 /* Tip.swift */,
+				CE5D122C28586C220087D672 /* TipsView.swift */,
 				CE8F2768284665C100183125 /* WorldView.swift */,
 				CEB1563028240301004C40F4 /* ContentView.swift */,
 				CE34309128460BF60057ACF3 /* Locations.swift */,
@@ -157,6 +163,8 @@
 				CEB1563128240301004C40F4 /* ContentView.swift in Sources */,
 				CEB1564128241739004C40F4 /* Location.swift in Sources */,
 				CE8F2769284665C100183125 /* WorldView.swift in Sources */,
+				CE5D122B28586B3E0087D672 /* Tip.swift in Sources */,
+				CE5D122D28586C220087D672 /* TipsView.swift in Sources */,
 				CE34309228460BF60057ACF3 /* Locations.swift in Sources */,
 				CEB1562F28240301004C40F4 /* TrekrAppApp.swift in Sources */,
 			);

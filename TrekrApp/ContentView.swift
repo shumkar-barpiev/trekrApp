@@ -43,5 +43,6 @@ struct ContentView_Previews: PreviewProvider {
         NavigationView{
             ContentView(location: Location.example)
         }
+.previewInterfaceOrientation(.portraitUpsideDown)
     }
 }
